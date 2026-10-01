@@ -87,7 +87,7 @@ export default function WindsorHeightsSection() {
               style={{ animation: visible ? 'slideInBlur 0.8s cubic-bezier(0.16,1,0.3,1) 0.7s forwards' : 'none' }}>
               
               <Link
-                href="https://windsorheights.in"
+                href="https://windsorheights.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary">

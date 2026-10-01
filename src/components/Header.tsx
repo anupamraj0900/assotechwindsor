@@ -69,8 +69,8 @@ export default function Header() {
               <AppLogo size={36} />
             </div>
             <div className={`hidden sm:block transition-colors duration-500 ${textColor}`}>
-              <div className="text-[11px] font-semibold tracking-[0.18em] uppercase leading-tight">Assotech Windsor</div>
-              <div className="text-[9px] tracking-[0.22em] uppercase opacity-70">Group</div>
+              <div className="text-[16px] font-semibold tracking-[0.18em] uppercase leading-tight">Assotech Windsor</div>
+              <div className="text-[16px] tracking-[0.22em] uppercase opacity-70">Group</div>
             </div>
           </Link>
 

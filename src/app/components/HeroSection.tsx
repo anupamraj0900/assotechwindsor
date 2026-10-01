@@ -16,15 +16,17 @@ export default function HeroSection() {
     <section className="relative min-h-screen flex items-end overflow-hidden" aria-label="Hero">
       {/* Background image with slow zoom */}
       <div className="absolute inset-0 overflow-hidden">
-        <img
-          ref={imgRef}
-          src="https://img.rocket.new/generatedImages/rocket_gen_img_4206e86d7-1789151619549.png"
-          alt="Premium architectural development — Assotech Windsor Group"
-          className="w-full h-full object-cover"
-          style={{
-            transform: loaded ? 'scale(1.0)' : 'scale(1.08)',
-            transition: 'transform 12s cubic-bezier(0.16, 1, 0.3, 1)'
-          }} />
+      <img
+  ref={imgRef}
+  src="https://images.unsplash.com/photo-1715870251827-370ee823cab1?auto=format&fit=crop&w=2400&q=85"
+  alt="Assotech Windsor Group development"
+  className="w-full h-full object-cover"
+  style={{
+    objectPosition: 'center',
+    transform: loaded ? 'scale(1.0)' : 'scale(1.08)',
+    transition: 'transform 12s cubic-bezier(0.16, 1, 0.3, 1)'
+  }}
+/>
         
         {/* Gradient overlays */}
         <div className="absolute inset-0 bg-gradient-to-t from-[#0F1F15]/90 via-[#0F1F15]/40 to-[#0F1F15]/20" />
@@ -35,25 +37,19 @@ export default function HeroSection() {
       <div className="relative z-10 w-full max-w-[1400px] mx-auto px-8 pb-24 pt-40">
         <div className="max-w-4xl">
           {/* Eyebrow */}
-          <div
-            className="mb-8 opacity-0"
-            style={{ animation: loaded ? 'slideInBlur 0.8s cubic-bezier(0.16,1,0.3,1) 0.4s forwards' : 'none' }}>
-            
-            <span className="text-eyebrow text-[#B8975A]">Assotech Windsor Group</span>
-          </div>
+
 
           {/* Headline */}
-          <h1 className="font-display font-light text-[#F8F6F0] mb-8" style={{ fontSize: 'clamp(3rem, 7vw, 7rem)', lineHeight: '0.93', letterSpacing: '-0.02em' }}>
+          <h1 className="font-display font-light text-[#F8F6F0] mb-8" style={{ fontSize: 'clamp(3rem, 7vw, 7rem)', lineHeight: '1.5', letterSpacing: '-0.02em' }}>
             <span
               className="block overflow-hidden opacity-0"
               style={{ animation: loaded ? 'slideInBlur 1s cubic-bezier(0.16,1,0.3,1) 0.7s forwards' : 'none' }}>
-              
               Building Legacy.
             </span>
             <span
               className="block overflow-hidden opacity-0 italic"
               style={{ animation: loaded ? 'slideInBlur 1s cubic-bezier(0.16,1,0.3,1) 0.95s forwards' : 'none', color: '#B8975A' }}>
-              
+
               Creating What's Next.
             </span>
           </h1>

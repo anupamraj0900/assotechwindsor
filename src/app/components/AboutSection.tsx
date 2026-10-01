@@ -53,7 +53,7 @@ export default function AboutSection() {
               className="sr-hidden text-[#1C1C1A]/70 text-lg font-light leading-relaxed"
               style={{ opacity: 0, transform: 'translateY(40px)', transition: 'opacity 0.9s cubic-bezier(0.16,1,0.3,1) 0.2s, transform 0.9s cubic-bezier(0.16,1,0.3,1) 0.2s' }}
             >
-              Assotech Windsor Group is a diversified enterprise operating across Real Estate and Technology.
+              Assotech Windsor LLP is a diversified enterprise operating across Real Estate and Technology.
             </p>
             <p
               className="sr-hidden text-[#6B6558] leading-relaxed"
@@ -65,7 +65,7 @@ export default function AboutSection() {
               className="sr-hidden text-[#6B6558] leading-relaxed"
               style={{ opacity: 0, transform: 'translateY(40px)', transition: 'opacity 0.9s cubic-bezier(0.16,1,0.3,1) 0.4s, transform 0.9s cubic-bezier(0.16,1,0.3,1) 0.4s' }}
             >
-              Today, Assotech Windsor is expanding its real-estate footprint across India while building technology and digital engineering capabilities for North American markets.
+              Today, Assotech Windsor LLP is expanding its real-estate footprint across India while building technology and digital engineering capabilities for North American markets.
             </p>
             <div
               className="sr-hidden pt-4"
