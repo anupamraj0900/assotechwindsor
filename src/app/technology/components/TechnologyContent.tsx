@@ -14,8 +14,8 @@ const capabilities = [
 
 const model = [
 { location: 'India', role: 'Engineering & Delivery', desc: 'A deep pool of engineering talent delivering high-quality software across time zones.' },
-{ location: 'Canada', role: 'Commercial Market', desc: 'Commercial focus and client relationships across the Canadian market.' },
-{ location: 'San Francisco', role: 'Technology Ecosystem', desc: 'Connections to the San Francisco technology ecosystem, industry networks and emerging technology trends.' }];
+{ location: 'IT', role: 'Commercial Market', desc: 'Commercial focus and client relationships across the IT market.' },
+{ location: 'IT', role: 'Technology Ecosystem', desc: 'Connections to the IT technology ecosystem, industry networks and emerging technology trends, etc.' }];
 
 
 export default function TechnologyContent() {
@@ -37,7 +37,7 @@ export default function TechnologyContent() {
       <section className="relative pt-40 pb-24 bg-[#111A14] overflow-hidden">
         <div className="absolute inset-0 opacity-30">
           <img
-            src="https://img.rocket.new/generatedImages/rocket_gen_img_15d3c66bc-1769675952713.png"
+            src="https://img.rocket.new/generatedImages/rocket_gen_img_15b5a5ea1-1771517459711.png"
             alt="Technology and digital engineering — Assotech Windsor Group"
             className="w-full h-full object-cover" />
           

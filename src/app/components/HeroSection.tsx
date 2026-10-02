@@ -17,16 +17,16 @@ export default function HeroSection() {
       {/* Background image with slow zoom */}
       <div className="absolute inset-0 overflow-hidden">
       <img
-  ref={imgRef}
-  src="https://images.unsplash.com/photo-1715870251827-370ee823cab1?auto=format&fit=crop&w=2400&q=85"
-  alt="Assotech Windsor Group development"
-  className="w-full h-full object-cover"
-  style={{
-    objectPosition: 'center',
-    transform: loaded ? 'scale(1.0)' : 'scale(1.08)',
-    transition: 'transform 12s cubic-bezier(0.16, 1, 0.3, 1)'
-  }}
-/>
+          ref={imgRef}
+          src="https://img.rocket.new/generatedImages/rocket_gen_img_456bd6770-1790861117460.png"
+          alt="Assotech Windsor Group development"
+          className="w-full h-full object-cover"
+          style={{
+            objectPosition: 'center',
+            transform: loaded ? 'scale(1.0)' : 'scale(1.08)',
+            transition: 'transform 12s cubic-bezier(0.16, 1, 0.3, 1)'
+          }} />
+        
         
         {/* Gradient overlays */}
         <div className="absolute inset-0 bg-gradient-to-t from-[#0F1F15]/90 via-[#0F1F15]/40 to-[#0F1F15]/20" />

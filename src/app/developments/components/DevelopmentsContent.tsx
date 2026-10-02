@@ -9,7 +9,7 @@ const allProjects = [
   location: 'Katni, Madhya Pradesh',
   category: 'Residential',
   status: 'current',
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_4613ac7b5-1789151620646.png",
+  image: "https://img.rocket.new/generatedImages/rocket_gen_img_422a5416e-1790861120169.png",
   alt: 'Windsor Heights residential development Katni Madhya Pradesh',
   desc: 'A thoughtfully planned residential community designed around modern living, open spaces, connectivity and long-term value.',
   stats: ['4.6 Acres', '576 Residences', 'G+6', '200+ Bookings']
@@ -29,7 +29,7 @@ const allProjects = [
   location: 'Delhi NCR',
   category: 'Residential',
   status: 'experience',
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_1bd2d0a60-1784995469936.png",
+  image: "https://img.rocket.new/generatedImages/rocket_gen_img_4d79e4934-1790861119528.png",
   alt: 'Windsor Park residential development Delhi NCR',
   desc: 'Residential development in Delhi NCR.',
   stats: []
@@ -59,7 +59,7 @@ const allProjects = [
   location: 'Rudrapur, Uttarakhand',
   category: 'Township',
   status: 'experience',
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_49808fe63-1789151619279.png",
+  image: "https://img.rocket.new/generatedImages/rocket_gen_img_48b60fed2-1789151620925.png",
   alt: 'Metropolis City township development Rudrapur Uttarakhand',
   desc: 'Township development in Rudrapur, Uttarakhand.',
   stats: []

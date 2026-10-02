@@ -34,7 +34,7 @@ export default function WindsorHeightsSection() {
             
             <div className="relative overflow-hidden aspect-[16/10]">
               <img
-                src="https://img.rocket.new/generatedImages/rocket_gen_img_435fd078f-1789151622141.png"
+                src="https://img.rocket.new/generatedImages/rocket_gen_img_4f8f28475-1790861119962.png"
                 alt="Windsor Heights residential community Katni Madhya Pradesh — modern apartments with open spaces"
                 className="w-full h-full object-cover"
                 style={{
