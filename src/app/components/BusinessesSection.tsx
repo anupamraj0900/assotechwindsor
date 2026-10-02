@@ -53,7 +53,7 @@ export default function BusinessesSection() {
           onMouseLeave={() => setHoveredPanel(null)}>
           
           <img
-            src="https://img.rocket.new/generatedImages/rocket_gen_img_4f3a588c4-1789151620040.png"
+            src="https://img.rocket.new/generatedImages/rocket_gen_img_4f6900985-1790861118032.png"
             alt="Premium residential real estate development — Assotech Windsor Group"
             className="absolute inset-0 w-full h-full object-cover"
             style={{
@@ -109,7 +109,7 @@ export default function BusinessesSection() {
           onMouseLeave={() => setHoveredPanel(null)}>
           
           <img
-            src="https://img.rocket.new/generatedImages/rocket_gen_img_15d3c66bc-1769675952713.png"
+            src="https://img.rocket.new/generatedImages/rocket_gen_img_15b5a5ea1-1771517459711.png"
             alt="Technology and digital engineering — Assotech Windsor Group"
             className="absolute inset-0 w-full h-full object-cover"
             style={{

@@ -18,7 +18,7 @@ const projects = [
   location: 'Noida / Delhi NCR',
   category: 'Residential',
   status: 'Leadership Experience',
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_4c85651ed-1789152250235.png",
+  image: "https://img.rocket.new/generatedImages/rocket_gen_img_4b3227f4c-1790861118606.png",
   alt: 'Assotech Windsor Greens apartment building elevation Sector 50 Noida',
   current: false
 },
@@ -27,7 +27,7 @@ const projects = [
   location: 'Delhi NCR',
   category: 'Residential',
   status: 'Leadership Experience',
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_455b64c4c-1789152249860.png",
+  image: "https://img.rocket.new/generatedImages/rocket_gen_img_4c85651ed-1789152250235.png",
   alt: 'Assotech Windsor Park residential development Vaibhav Khand Ghaziabad',
   current: false
 },
@@ -45,7 +45,7 @@ const projects = [
   location: 'Gwalior, Madhya Pradesh',
   category: 'Residential',
   status: 'Leadership Experience',
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_4d5a1d488-1789152249668.png",
+  image: "https://img.rocket.new/generatedImages/rocket_gen_img_4bb9564a2-1790861117739.png",
   alt: 'Assotech Windsor Hills apartment building elevation City Centre Gwalior',
   current: false
 },
@@ -54,7 +54,7 @@ const projects = [
   location: 'Rudrapur, Uttarakhand',
   category: 'Township',
   status: 'Leadership Experience',
-  image: "https://img.rocket.new/generatedImages/rocket_gen_img_48b60fed2-1789151620925.png",
+  image: "https://img.rocket.new/generatedImages/rocket_gen_img_493c8cc99-1790861120052.png",
   alt: 'Metropolis City township development Rudrapur Uttarakhand urban planning',
   current: false
 }];
